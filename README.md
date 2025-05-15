@@ -1,18 +1,27 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/daheepk-arxiv-paper-mcp-badge.png)](https://mseep.ai/app/daheepk-arxiv-paper-mcp)
-
 # 🧠 arXiv Research Assistant MCP Server
 
 [![smithery badge](https://smithery.ai/badge/arxiv-paper-mcp)](https://smithery.ai/server/arxiv-paper-mcp)
+
 
 This project is an MCP (Model Context Protocol) server built to interact with the vast arXiv.org paper database.
 
 It allows clients like **Claude AI** to search, explore, and compare arXiv papers efficiently — all through a custom-built, local server. It’s built with **Python** and the **FastMCP** framework, and uses **uv** for lightweight package management.
 
-<a href="https://glama.ai/mcp/servers/@daheepk/arxiv-mcp-server">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/@daheepk/arxiv-mcp-server/badge" alt="arXiv Research Assistant Server MCP server" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://glama.ai/mcp/servers/@daheepk/arxiv-mcp-server">
+        <img width="380" height="200" src="https://glama.ai/mcp/servers/@daheepk/arxiv-mcp-server/badge" alt="arXiv Research Assistant Server MCP server" />
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <a href="https://mseep.ai/app/daheepk-arxiv-paper-mcp">
+        <img src="https://mseep.net/pr/daheepk-arxiv-paper-mcp-badge.png" alt="MseeP.ai Security Assessment Badge" width="150" />
+      </a>
+    </td>
+  </tr>
+</table>
 
----
 
 ## ✨ Features
 

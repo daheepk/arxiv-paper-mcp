@@ -1,5 +1,7 @@
 # 🧠 arXiv Research Assistant MCP Server
 
+[![smithery badge](https://smithery.ai/badge/arxiv-paper-mcp)](https://smithery.ai/server/arxiv-paper-mcp)
+
 This project is an MCP (Model Context Protocol) server built to interact with the vast arXiv.org paper database.
 
 It allows clients like **Claude AI** to search, explore, and compare arXiv papers efficiently — all through a custom-built, local server. It’s built with **Python** and the **FastMCP** framework, and uses **uv** for lightweight package management.
@@ -9,6 +11,7 @@ It allows clients like **Claude AI** to search, explore, and compare arXiv paper
 </a>
 
 ---
+
 ## ✨ Features
 
 - **🔍 Keyword-based Paper Search**  
@@ -46,12 +49,33 @@ It allows clients like **Claude AI** to search, explore, and compare arXiv paper
 
 ## 🚀 Getting Started
 
-### 1. Installation from PyPI
+### Installing via Smithery
 
-Install using uv:
+To install arXiv Research Assistant MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/arxiv-paper-mcp):
+
+```bash
+npx -y @smithery/cli install arxiv-paper-mcp --client claude
+```
+
+### Installation from PyPI
+
 ```bash
 uv pip install arxiv-paper-mcp
 ```
+
+### 🔧 Clone the repository (for development)
+```bash
+git clone https://github.com/daheepk/arxiv-mcp-server.git
+cd arxiv-mcp-server
+```
+### 🔧 Install Dependencies (for development)
+
+Use `uv` to install all dependencies in editable mode:
+
+```bash
+uv pip install -e .
+```
+
 
 ## ⚙️ How to Run
 

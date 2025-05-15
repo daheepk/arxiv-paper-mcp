@@ -1,0 +1,9 @@
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    description: No configuration required
+  commandFunction:
+    |-
+    (config) => ({ command: 'arxiv-paper-mcp', args: [] })
+  exampleConfig: {}

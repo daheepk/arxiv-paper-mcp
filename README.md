@@ -16,7 +16,7 @@ It allows clients like **Claude AI** to search, explore, and compare arXiv paper
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <a href="https://mseep.ai/app/daheepk-arxiv-paper-mcp">
-        <img src="https://mseep.net/pr/daheepk-arxiv-paper-mcp-badge.png" alt="MseeP.ai Security Assessment Badge" width="150" />
+        <img src="https://mseep.net/pr/daheepk-arxiv-paper-mcp-badge.png" alt="MseeP.ai Security Assessment Badge" width="140" />
       </a>
     </td>
   </tr>

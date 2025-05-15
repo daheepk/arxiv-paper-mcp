@@ -6,6 +6,11 @@ This project is an MCP (Model Context Protocol) server built to interact with th
 
 It allows clients like **Claude AI** to search, explore, and compare arXiv papers efficiently — all through a custom-built, local server. It’s built with **Python** and the **FastMCP** framework, and uses **uv** for lightweight package management.
 
+<a href="https://glama.ai/mcp/servers/@daheepk/arxiv-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@daheepk/arxiv-mcp-server/badge" alt="arXiv Research Assistant Server MCP server" />
+</a>
+
+---
 
 ## ✨ Features
 

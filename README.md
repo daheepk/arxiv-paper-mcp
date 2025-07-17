@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/daheepk-arxiv-paper-mcp-badge.png)](https://mseep.ai/app/daheepk-arxiv-paper-mcp)
+
 # 🧠 arXiv Research Assistant MCP Server
 
 [![smithery badge](https://smithery.ai/badge/arxiv-paper-mcp)](https://smithery.ai/server/arxiv-paper-mcp)

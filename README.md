@@ -1,6 +1,6 @@
 # 🧠 arXiv Research Assistant MCP Server
 
-[![smithery badge](https://smithery.ai/badge/arxiv-paper-mcp)](https://smithery.ai/server/arxiv-paper-mcp)
+[![smithery badge](https://smithery.ai/badge/@daheepk/arxiv-paper-mcp)](https://smithery.ai/server/@daheepk/arxiv-paper-mcp)
 
 
 This project is an MCP (Model Context Protocol) server built to interact with the vast arXiv.org paper database.
